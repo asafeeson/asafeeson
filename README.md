@@ -1,6 +1,6 @@
 # Hi, I'm Gleb Kochergin aka Asafeeson 👋
 
-I'm a **freelance full-stack developer** passionate about crafting robust, scalable, and modern web applications. From beautiful frontends to powerful backends (and all the DevOps magic in between), I thrive on building complete solutions.
+I'm a **freelance commercial full-stack developer** passionate about crafting robust, scalable, and modern web applications. From beautiful frontends to powerful backends (and all the DevOps magic in between), I thrive on building complete solutions.
 
 ## 🔹 Tech Stack & Top Skills
 
@@ -29,6 +29,9 @@ I'm a **freelance full-stack developer** passionate about crafting robust, scala
 ### DevOps & Observability
 - Docker, Kubernetes, Portainer, Traefik, NGINX, ELK Stack, Grafana, Prometheus
 
+### CMS Experience
+- Strapi, Directus, Payload, Ghost
+
 ## 💡 About Me
 
 - 🧑‍💻 Architecting seamless solutions from snappy UIs to efficient backends.
@@ -42,18 +45,3 @@ I'm a **freelance full-stack developer** passionate about crafting robust, scala
 ---
 
 > *“Great code is invisible. Great UX is unforgettable.”*
-
-<!--
-**asafeeson/asafeeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
